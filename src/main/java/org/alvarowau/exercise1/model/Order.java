@@ -1,6 +1,6 @@
-package org.alvarowau.ejercicio1.model;
+package org.alvarowau.exercise1.model;
 
-import org.alvarowau.ejercicio1.model.enums.OrderStatus;
+import org.alvarowau.exercise1.model.enums.OrderStatus;
 
 public class Order {
 

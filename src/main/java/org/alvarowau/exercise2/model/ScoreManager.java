@@ -1,4 +1,4 @@
-package org.alvarowau.ejercicio2.model;
+package org.alvarowau.exercise2.model;
 
 import java.util.HashMap;
 import java.util.Map;

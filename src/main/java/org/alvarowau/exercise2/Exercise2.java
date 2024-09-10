@@ -1,8 +1,8 @@
-package org.alvarowau.ejercicio2;
+package org.alvarowau.exercise2;
 
-import org.alvarowau.ejercicio2.model.ScoreManager;
+import org.alvarowau.exercise2.model.ScoreManager;
 
-public class Ejercicio2 {
+public class Exercise2 {
 
     public static void main(String[] args) {
         ScoreManager tablero = new ScoreManager();

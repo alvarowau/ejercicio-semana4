@@ -1,10 +1,10 @@
-package org.alvarowau.ejercicio1;
+package org.alvarowau.exercise1;
 
-import org.alvarowau.ejercicio1.model.Order;
-import org.alvarowau.ejercicio1.model.enums.OrderStatus;
+import org.alvarowau.exercise1.model.Order;
+import org.alvarowau.exercise1.model.enums.OrderStatus;
 
 
-public class Main {
+public class Exercise1 {
     public static void main(String[] args) {
         Order order1 = new Order(101, "Laptop", 999.99, OrderStatus.PENDING);
         System.out.println(order1.printOrderDetails());
